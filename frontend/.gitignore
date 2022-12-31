@@ -9,7 +9,7 @@
 /coverage
 
 # production
-/build
+# /build   //! Commented out to check whether my app is working or not, if it works then I will not revert back.
 
 # misc
 .DS_Store
